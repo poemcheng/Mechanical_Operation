@@ -8,7 +8,7 @@
 - [16.1 機械加工和零件幾何](01-machining-and-part-geometry.md)：投影片 5-9
 - [16.2 車削及相關作業](02-turning-and-related-operations.md)：投影片 10-27
 - [16.3 鑽孔及相關作業](03-drilling-and-related-operations.md)：投影片 28-34
-- [16.4 鋑削](04-milling.md)：投影片 35-46
+- [16.4 銑削](04-milling.md)：投影片 35-46
 - [16.5 綜合加工機和車削中心](05-machining-centers-and-turning-centers.md)：投影片 47-51
 - [16.6 其他機械加工作業](06-other-machining-operations.md)：投影片 52-63
 - [16.7 高速機械加工](07-high-speed-machining.md)：投影片 64-69
@@ -19,3 +19,4 @@
 
 - 簡報中未偵測到 PowerPoint 原生表格物件；原始表格或圖表若存在，已依投影片圖片一併保存。
 - 圖片檔位於 `assets/`，檔名以投影片頁碼對應。
+- 每張投影片已補充研究所層級專有名詞解釋；含圖片或圖表的投影片另附圖像閱讀重點與工程意義。
